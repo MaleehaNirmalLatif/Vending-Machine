@@ -1,6 +1,6 @@
 # Vending-Machine
 It is a vending machine in assembly language.
-Nasm.
+Install DosBox.
 Use appropriate commands to run the code.
 
 
